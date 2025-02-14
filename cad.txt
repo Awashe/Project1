@@ -1,0 +1,23 @@
+Posting Date	Comments	Local Amount	Local Code
+1/31/2025	75102001 Gross Book VHeineken - Buildings	4126228182.19	ETB
+1/31/2025	75103001 Gross Book VHeineken - Plant & Machinery	8208103716.91	ETB
+1/31/2025	"75104001 GBV HNK - Furniture,Fixtures & Fittings"	534644917.74	ETB
+1/31/2025	75105001 GB VHeineken - Motor Vehicles & Transport Eq.	1608094378.83	ETB
+1/31/2025	75106001 Gross Book VHeineken - ret pack Items	6608523307.25	ETB
+1/31/2025	75108001 Gross Book VHeineken - TFA WIP	2098688764.16	ETB
+1/31/2025	75109001 Gross Book VHeineken - Comm. A.	829419029.75	ETB
+1/31/2025	75132001 Accumulated DepreciaHeineken - Buildings	-1102156197.35	ETB
+1/31/2025	75133001 Acc. DHeineken - Plant & Machinery	-3785657749.68	ETB
+1/31/2025	"75134001 AccumDepr. HNK - Furniture,Fixtures & Fittings"	-402501454.82	ETB
+1/31/2025	75135001 AccumDepreciation HNK-Motor Vehicles&TransportEq	-815175114.70	ETB
+1/31/2025	75136001 Accumulated DepreciaHeineken - ret pack Items	-4486279273.62	ETB
+1/31/2025	75139001 Acc. DHeineken - Comm. A.	-674721205.25	ETB
+1/31/2025	75155001 Gross Book VHeineken - Software	180636099.27	ETB
+1/31/2025	75159001 GB VHeineken - Intangible Assets WIP	2608734.05	ETB
+1/31/2025	75165001 Accumulated AmortisaHeineken - Software	-113318626.19	ETB
+1/31/2025	75137001 Accumulated DepreciaHeineken - TFA not used	-2362437.85	ETB
+1/31/2025	75150001 Gross Book VHeineken -Brands	184697960.00	ETB
+1/31/2025	75160001 Accumulated AmortisaHeineken - Brands	-100147887.98	ETB
+1/31/2025	75107001 Gross Book VHeineken - TFA not used	3525494.13	ETB
+1/31/2025	75158001 Gross Book Value HNK - otr Intangible Assets	315642.53	ETB
+1/31/2025	75168001 Accumulated Amortisation HNK - otr Intng. Assetsl	-315642.53	ETB
